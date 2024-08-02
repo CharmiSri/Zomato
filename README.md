@@ -1,1 +1,1 @@
-# Zomato
+Developed a Zomato-like web application using Express.js, Node.js, and Mongoose for backend, integrating MongoDB with JSON files derived from Kaggle datasets. Designed the frontend with HTML, CSS, Bootstrap, and JavaScript to create dynamic restaurant listings and detail pages. Implemented pagination and data retrieval features to enhance user experience.
